@@ -1,5 +1,3 @@
-# Elevare
-
 # Elevare ⚡ — Engineering Placement Suite
 
 > *Compile your future. Debug your career path. Deploy to production.*
@@ -7,26 +5,6 @@
 Elevare is a single-page web app for managing college placement drives. It gives students a dashboard to track their CGPA-and-skill-based job matches, manage their profile/resume, and get an AI-generated "core fundamentals" study plan — while giving placement admins a control panel to configure recruiter requirements and browse eligible candidates.
 
 > 🎓 Built as a 5th Semester Mini Project.
-
----
-
-## 📸 Screenshots
-
-**Login — Student / Admin access selection**
-
-![Login screen](./screenshots/login.png)
-
-**Student Dashboard — AI coach, resume center, and compatible companies**
-
-![Student dashboard](./screenshots/student_dashboard.png)
-
-**Admin Dashboard — placement stats and recruiter configuration**
-
-![Admin dashboard](./screenshots/admin_dashboard.png)
-
-**Admin — User Registry**
-
-![Admin user registry](./screenshots/admin_registry.png)
 
 ---
 
