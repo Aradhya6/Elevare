@@ -128,8 +128,3 @@ The AI coach sends the student's profile (name, USN, department, CGPA, skills, a
 - Move API keys server-side
 - Add pagination for large student/company lists
 
----
-
-## 📄 License
-
-Add your preferred license here (e.g., MIT).
